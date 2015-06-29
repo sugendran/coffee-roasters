@@ -1,0 +1,23 @@
+{
+  "name": "coffee-roasters",
+  "version": "1.0.0",
+  "description": "A map of coffee roasters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sugendran/coffee-roasters.git"
+  },
+  "author": "Sugendran Ganess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sugendran/coffee-roasters/issues"
+  },
+  "homepage": "https://github.com/sugendran/coffee-roasters",
+  "devDependencies": {
+    "assemble": "^0.4.42",
+    "grunt": "^0.4.5"
+  }
+}
