@@ -6,6 +6,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.398084,
+          52.527403
+        ]
+      },
+      "properties": {
+        "name": "The Barn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.062708,
+          59.316877
+        ]
+      },
+      "properties": {
+        "name": "Drop Coffee HB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.102388,
           51.522341
         ]

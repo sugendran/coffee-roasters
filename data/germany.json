@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.398084,
+          52.527403
+        ]
+      },
+      "properties": {
+        "name": "The Barn"
+      }
+    }
+  ]
+}
